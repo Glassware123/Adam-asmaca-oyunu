@@ -1,0 +1,35 @@
+C:\Users\ogr\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ogr\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam_asmaca_oyunu.Form1.resources
+C:\Users\ogr\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam_asmaca_oyunu.Properties.Resources.resources
+C:\Users\ogr\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\bin\Debug\Adam asmaca oyunu.exe
+C:\Users\ogr\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\bin\Debug\Adam asmaca oyunu.pdb
+C:\Users\ogr\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.exe
+C:\Users\ogr\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.pdb
+E:\Visual C#.Net Projeler -Okul-\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.exe
+E:\Visual C#.Net Projeler -Okul-\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.pdb
+E:\Visual C#.Net Projeler -Okul-\Adam asmaca oyunu\Adam asmaca oyunu\bin\Debug\Adam asmaca oyunu.exe
+E:\Visual C#.Net Projeler -Okul-\Adam asmaca oyunu\Adam asmaca oyunu\bin\Debug\Adam asmaca oyunu.pdb
+E:\Visual C#.Net Projeler -Okul-\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual C#.Net Projeler -Okul-\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam_asmaca_oyunu.Form1.resources
+E:\Visual C#.Net Projeler -Okul-\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam_asmaca_oyunu.Properties.Resources.resources
+E:\Visual C#.Net Projeler -Okul-\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.csproj.GenerateResource.Cache
+E:\Visual C#.Net Projeler\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.exe
+E:\Visual C#.Net Projeler\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\1. Dönem Projeleri\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.exe
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\1. Dönem Projeleri\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\1. Dönem Projeleri\Adam asmaca oyunu\Adam asmaca oyunu\bin\Debug\Adam asmaca oyunu.exe
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\1. Dönem Projeleri\Adam asmaca oyunu\Adam asmaca oyunu\bin\Debug\Adam asmaca oyunu.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\1. Dönem Projeleri\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\1. Dönem Projeleri\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam_asmaca_oyunu.Form1.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\1. Dönem Projeleri\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam_asmaca_oyunu.Properties.Resources.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\1. Dönem Projeleri\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\1. Dönem Projeleri\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ASUS\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.exe
+C:\Users\ASUS\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.pdb
+C:\Users\ASUS\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam_asmaca_oyunu.Form1.resources
+C:\Users\ASUS\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam_asmaca_oyunu.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\bin\Debug\Adam asmaca oyunu.exe
+C:\Users\ASUS\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\bin\Debug\Adam asmaca oyunu.pdb
+C:\Users\ASUS\Desktop\Adam asmaca oyunu\Adam asmaca oyunu\obj\Debug\Adam asmaca oyunu.csprojResolveAssemblyReference.cache
